@@ -1,0 +1,14 @@
+[
+    {name:"亚普股份",code:"sh603013",lowprice:13.0,maxprice:16},
+    {name:"三维通信",code:"sz002115",lowprice:10.18,maxprice:13},
+    {name:"吴通控股",code:"sz300292",lowprice:5.58,maxprice:6.3},
+    {name:"和顺电气",code:"sz300141",lowprice:8.49,maxprice:9.4},
+    {name:"易事特",code:"sz300376",lowprice:5.96,maxprice:6.4},
+    {name:"北玻股份",code:"sz002613",lowprice:5.36,maxprice:7.5},
+    {name:"哈高科",code:"sh600095",lowprice:9.9,maxprice:11.88},
+    {name:"安徽建工",code:"sh600502",lowprice:3.86,maxprice:4.7},
+    {name:"斯莱克",code:"sz300382",lowprice:8.49,maxprice:7.92},
+    {name:"奥特佳",code:"sz002239",lowprice:5.68,maxprice:6.68},
+    {name:"隆华科技",code:"sz300263",lowprice:7.78,maxprice:8.99},
+    {name:"达安基因",code:"sz002030",lowprice:18,maxprice:19}
+]
